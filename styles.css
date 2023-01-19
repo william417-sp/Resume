@@ -1,0 +1,67 @@
+.top-container {
+    background-image: url(https://i.pinimg.com/originals/17/37/f5/1737f5aa840b957babfbdb52775458a8.jpg)
+        position: relative;
+    padding-top: 100px;
+
+}
+
+body {
+    display: inherit;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    background-color: #D6E4E5;
+}
+
+h1 {
+    display: inherit;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    margin: 50px auto 0 auto;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+    color: #11999E;
+}
+
+.middle-container {
+  padding-top: 30px;
+    text-align: center;
+}
+.code{
+    
+    margin-right: 500px;
+    margin-left: 570px;
+    text-align: justify;
+}
+
+.bottom-container {
+    color: #11999E;
+   
+}
+
+.bottom-cloud {
+    position: absolute;
+
+}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+
+}
+
